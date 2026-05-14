@@ -4,7 +4,8 @@ TAGS: memory-leak, java, jvm, gc, backend-debugging, production-issues, performa
 -->
 
 # Scenario: Memory Issue After Several Hours (Possible Memory Leak)
-...
+
+---
 
 ## Problem
 
